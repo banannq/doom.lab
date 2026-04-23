@@ -1,6 +1,6 @@
 {
   "issuer": "https://example.org",
-  "authorization_endpoint": "https://example.org/authorize",
+  "authorization_endpoint": "https://fudo.test/",
   "token_endpoint": "https://example.org/token",
   "jwks_uri": "https://example.org/jwks.json",
   "userinfo_endpoint": "https://example.org/userinfo",
